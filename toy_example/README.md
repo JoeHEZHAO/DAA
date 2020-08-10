@@ -1,4 +1,4 @@
-# Toy Example for Regularized Gumbel-GAN
+# Toy Example for Regularized Gumbel Conditional GAN (GCGAN)
 
 ## Included Content:
 * Discrete Gaussian Grid Dataset, modified from continuous gaussin grid dataloader;

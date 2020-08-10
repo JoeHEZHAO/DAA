@@ -7,8 +7,10 @@ On Diverse Asynchronous Activity Anticipation
     * Required Pytorch >= 1.0
     * python 3.6
     * Ipython notebook    
-    
-    
+
+## TODO：
+* Complete the dataloader code for three tested datasets;
+* Complete the training/testing code for three tested dataset;
     
 ## Acknowledgement
 This project is inspired by following papers:
