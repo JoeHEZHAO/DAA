@@ -7,11 +7,13 @@ On Diverse Asynchronous Activity Anticipation
     * Required Pytorch >= 1.0
     * python 3.6
     * Ipython notebook    
+    
+2. dataset folder contains preprocessed data; 
 
 ## TODO：
 (We are rescuing original files from crashed disk, sorry for any inconvenience)  
-* Complete the dataloader code for three tested datasets;
-* Complete the training/testing code for three tested dataset;
+* 3. Complete the dataloader code for three tested datasets;
+* 4. Complete the training/testing code for three tested dataset;
     
 ## Acknowledgement
 This project is inspired by following papers, many thanks to them:
